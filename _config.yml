@@ -7,7 +7,7 @@
 
 # Site settings
 title: kantou
-brief-intro: 
+# brief-intro: #sss
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://youkantou.github.io" # the base hostname & protocol for your site
 

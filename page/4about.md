@@ -30,7 +30,7 @@ type: page
 **若您想使用这个 jekyll 博客主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
 
 
-**本站文章有原创，有转载，有借鉴，如有雷同纯属正常，如有版权问题，请联系QQ:744018973
+本站文章有原创，有转载，有借鉴，如有雷同纯属正常，如有版权问题，请联系QQ:744018973
 
 
 {% include comments.html %}

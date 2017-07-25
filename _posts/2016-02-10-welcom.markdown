@@ -2,13 +2,13 @@
 layout: post
 title:  "hello world!"
 date:   2016-02-10 15:14:54
-categories: hello
-tags: hello
+categories: hello world
+tags: hello world
+excerpt: 第一篇文章，hello world，留个纪念吧。
+mathjax: true
 ---
 
-* content
-{:toc}
-    第一篇文章，hello world，留个纪念吧。
+第一篇文章，hello world，留个纪念吧。
     
 
-![](https://github.com/youkantou/youkantou.github.io/blob/master/img/1.png)
+![](https://raw.githubusercontent.com/youkantou/youkantou.github.io/master/img/1.png)
